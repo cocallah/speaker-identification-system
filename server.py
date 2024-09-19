@@ -34,7 +34,7 @@ def receive_and_save_audio(sock, file):
 
 # initialize speaker identification pipeline
 pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1",
-                                    use_auth_token="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")
+                                    use_auth_token="YOUR_AUTH_TOKEN")
 
 # file names
 audio_file = "last_20_seconds.wav"
