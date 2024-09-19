@@ -1,5 +1,5 @@
 ## Speaker Identification System
-## Rory St. Hilaire (rsthila2@nd.edu) and Conor O'Callahan (cocallah@nd.edu)
+## Rory St. Hilaire and Conor O'Callahan
 
 # import libraries
 import speech_recognition as sr
