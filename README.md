@@ -1,5 +1,5 @@
-Conor O'Callahan (cocallah@nd.edu)
-Rory St. Hilaire (rsthila2@nd.edu)
+Conor O'Callahan
+Rory St. Hilaire
 
 # Summary
 Our project implements a speaker identification system to identify the number
