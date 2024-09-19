@@ -67,7 +67,7 @@ def terminate(event):
 sense.stick.direction_any = terminate
 
 # server information
-server_ip = "192.168.0.18"
+server_ip = "SERVER_IP"
 server_port = 7007
 
 # set up the client socket
